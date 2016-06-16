@@ -7,21 +7,45 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DF0895481CDA186D007ABBAC /* DiscoverViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF0895471CDA186D007ABBAC /* DiscoverViewController.swift */; };
+		DF08954A1CDA29DC007ABBAC /* WechatTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF0895491CDA29DC007ABBAC /* WechatTabBarController.swift */; };
+		DF672B861CE762AD00464139 /* ContactsList.plist in Resources */ = {isa = PBXBuildFile; fileRef = DF672B851CE762AD00464139 /* ContactsList.plist */; };
+		DF672B881CE7639400464139 /* MessagesList.plist in Resources */ = {isa = PBXBuildFile; fileRef = DF672B871CE7639400464139 /* MessagesList.plist */; };
+		DF672B8A1CE763A000464139 /* MomentsList.plist in Resources */ = {isa = PBXBuildFile; fileRef = DF672B891CE763A000464139 /* MomentsList.plist */; };
+		DF990E581CDE35D300A5548D /* launch_image@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = DF990E571CDE35D300A5548D /* launch_image@2x.png */; };
+		DF990E5C1CE0E45600A5548D /* MeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF990E5B1CE0E45600A5548D /* MeViewController.swift */; };
+		DF990E5E1CE1080900A5548D /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF990E5D1CE1080900A5548D /* Message.swift */; };
+		DF990E601CE191DE00A5548D /* ChatsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF990E5F1CE191DE00A5548D /* ChatsViewController.swift */; };
+		DF990E621CE21FF400A5548D /* MomentsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF990E611CE21FF400A5548D /* MomentsViewController.swift */; };
+		DF990E661CE4635F00A5548D /* Moment.swift in Sources */ = {isa = PBXBuildFile; fileRef = DF990E651CE4635F00A5548D /* Moment.swift */; };
 		DFAA18ED1CD73A0D004E7B1C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFAA18EC1CD73A0D004E7B1C /* AppDelegate.swift */; };
-		DFAA18EF1CD73A0D004E7B1C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFAA18EE1CD73A0D004E7B1C /* ViewController.swift */; };
+		DFAA18EF1CD73A0D004E7B1C /* ContactsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFAA18EE1CD73A0D004E7B1C /* ContactsViewController.swift */; };
 		DFAA18F21CD73A0D004E7B1C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DFAA18F01CD73A0D004E7B1C /* Main.storyboard */; };
 		DFAA18F41CD73A0D004E7B1C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DFAA18F31CD73A0D004E7B1C /* Assets.xcassets */; };
 		DFAA18F71CD73A0D004E7B1C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DFAA18F51CD73A0D004E7B1C /* LaunchScreen.storyboard */; };
+		DFC8E3621CDC7569003FDDCE /* Contact.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFC8E3611CDC7569003FDDCE /* Contact.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DF0895471CDA186D007ABBAC /* DiscoverViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DiscoverViewController.swift; sourceTree = "<group>"; };
+		DF0895491CDA29DC007ABBAC /* WechatTabBarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WechatTabBarController.swift; sourceTree = "<group>"; };
+		DF672B851CE762AD00464139 /* ContactsList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ContactsList.plist; sourceTree = "<group>"; };
+		DF672B871CE7639400464139 /* MessagesList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = MessagesList.plist; sourceTree = "<group>"; };
+		DF672B891CE763A000464139 /* MomentsList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = MomentsList.plist; sourceTree = "<group>"; };
+		DF990E571CDE35D300A5548D /* launch_image@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "launch_image@2x.png"; sourceTree = "<group>"; };
+		DF990E5B1CE0E45600A5548D /* MeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MeViewController.swift; sourceTree = "<group>"; };
+		DF990E5D1CE1080900A5548D /* Message.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
+		DF990E5F1CE191DE00A5548D /* ChatsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatsViewController.swift; sourceTree = "<group>"; };
+		DF990E611CE21FF400A5548D /* MomentsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MomentsViewController.swift; sourceTree = "<group>"; };
+		DF990E651CE4635F00A5548D /* Moment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Moment.swift; sourceTree = "<group>"; };
 		DFAA18E91CD73A0D004E7B1C /* SimpleWechat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpleWechat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DFAA18EC1CD73A0D004E7B1C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		DFAA18EE1CD73A0D004E7B1C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		DFAA18EE1CD73A0D004E7B1C /* ContactsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactsViewController.swift; sourceTree = "<group>"; };
 		DFAA18F11CD73A0D004E7B1C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		DFAA18F31CD73A0D004E7B1C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DFAA18F61CD73A0D004E7B1C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DFAA18F81CD73A0D004E7B1C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DFC8E3611CDC7569003FDDCE /* Contact.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Contact.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,12 +78,24 @@
 		DFAA18EB1CD73A0D004E7B1C /* SimpleWechat */ = {
 			isa = PBXGroup;
 			children = (
+				DF990E571CDE35D300A5548D /* launch_image@2x.png */,
 				DFAA18EC1CD73A0D004E7B1C /* AppDelegate.swift */,
-				DFAA18EE1CD73A0D004E7B1C /* ViewController.swift */,
+				DFAA18EE1CD73A0D004E7B1C /* ContactsViewController.swift */,
 				DFAA18F01CD73A0D004E7B1C /* Main.storyboard */,
 				DFAA18F31CD73A0D004E7B1C /* Assets.xcassets */,
-				DFAA18F51CD73A0D004E7B1C /* LaunchScreen.storyboard */,
 				DFAA18F81CD73A0D004E7B1C /* Info.plist */,
+				DFAA18F51CD73A0D004E7B1C /* LaunchScreen.storyboard */,
+				DF0895471CDA186D007ABBAC /* DiscoverViewController.swift */,
+				DF0895491CDA29DC007ABBAC /* WechatTabBarController.swift */,
+				DFC8E3611CDC7569003FDDCE /* Contact.swift */,
+				DF990E5B1CE0E45600A5548D /* MeViewController.swift */,
+				DF990E5D1CE1080900A5548D /* Message.swift */,
+				DF990E5F1CE191DE00A5548D /* ChatsViewController.swift */,
+				DF990E611CE21FF400A5548D /* MomentsViewController.swift */,
+				DF990E651CE4635F00A5548D /* Moment.swift */,
+				DF672B851CE762AD00464139 /* ContactsList.plist */,
+				DF672B871CE7639400464139 /* MessagesList.plist */,
+				DF672B891CE763A000464139 /* MomentsList.plist */,
 			);
 			path = SimpleWechat;
 			sourceTree = "<group>";
@@ -123,8 +159,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DF672B8A1CE763A000464139 /* MomentsList.plist in Resources */,
+				DF672B861CE762AD00464139 /* ContactsList.plist in Resources */,
 				DFAA18F71CD73A0D004E7B1C /* LaunchScreen.storyboard in Resources */,
+				DF990E581CDE35D300A5548D /* launch_image@2x.png in Resources */,
 				DFAA18F41CD73A0D004E7B1C /* Assets.xcassets in Resources */,
+				DF672B881CE7639400464139 /* MessagesList.plist in Resources */,
 				DFAA18F21CD73A0D004E7B1C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -136,8 +176,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DFAA18EF1CD73A0D004E7B1C /* ViewController.swift in Sources */,
+				DF990E5C1CE0E45600A5548D /* MeViewController.swift in Sources */,
+				DF0895481CDA186D007ABBAC /* DiscoverViewController.swift in Sources */,
+				DFAA18EF1CD73A0D004E7B1C /* ContactsViewController.swift in Sources */,
+				DF990E661CE4635F00A5548D /* Moment.swift in Sources */,
+				DF990E601CE191DE00A5548D /* ChatsViewController.swift in Sources */,
+				DF08954A1CDA29DC007ABBAC /* WechatTabBarController.swift in Sources */,
+				DF990E621CE21FF400A5548D /* MomentsViewController.swift in Sources */,
+				DF990E5E1CE1080900A5548D /* Message.swift in Sources */,
 				DFAA18ED1CD73A0D004E7B1C /* AppDelegate.swift in Sources */,
+				DFC8E3621CDC7569003FDDCE /* Contact.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,10 +300,15 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = SimpleWechat/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				PRODUCT_BUNDLE_IDENTIFIER = Li.SimpleWechat;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_INSTALL_OBJC_HEADER = NO;
+				SWIFT_OBJC_BRIDGING_HEADER = "";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
@@ -263,10 +316,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = SimpleWechat/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				PRODUCT_BUNDLE_IDENTIFIER = Li.SimpleWechat;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_INSTALL_OBJC_HEADER = NO;
+				SWIFT_OBJC_BRIDGING_HEADER = "";
 			};
 			name = Release;
 		};
@@ -289,6 +346,7 @@
 				DFAA18FD1CD73A0D004E7B1C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>wechatAccount</key>
+		<string>wechat005</string>
+		<key>messageContent</key>
+		<string>Hello world!</string>
+		<key>time</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>wechatAccount</key>
+		<string>wechat009</string>
+		<key>messageContent</key>
+		<string>Howdy!</string>
+		<key>time</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>wechatAccount</key>
+		<string>wechat013</string>
+		<key>messageContent</key>
+		<string>Goode morning, my friend!</string>
+		<key>time</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>wechatAccount</key>
+		<string>wechat018</string>
+		<key>messageContent</key>
+		<string>I invited you to a new group.</string>
+		<key>time</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>wechatAccount</key>
+		<string>wechat100</string>
+		<key>messageContent</key>
+		<string>Hey, how&apos;s it going!</string>
+		<key>time</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>wechatAccount</key>
+		<string>wechat001</string>
+		<key>messageContent</key>
+		<string>Greeting, my friend.</string>
+		<key>time</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>wechatAccount</key>
+		<string>wechat002</string>
+		<key>messageContent</key>
+		<string>Sorry that happend.</string>
+		<key>time</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>wechatAccount</key>
+		<string>wechat008</string>
+		<key>messageContent</key>
+		<string>That&apos;s incredible!</string>
+		<key>time</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>wechatAccount</key>
+		<string>wechat015</string>
+		<key>messageContent</key>
+		<string>Well played!</string>
+		<key>time</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>wechatAccount</key>
+		<string>wechat012</string>
+		<key>messageContent</key>
+		<string>Good, night!</string>
+		<key>time</key>
+		<string></string>
+	</dict>
+</array>
+</plist>
